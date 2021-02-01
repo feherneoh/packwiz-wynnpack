@@ -1,0 +1,14 @@
+name = "Wynntils"
+filename = "Wynntils-1.8.0_643-MC1.12.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3132/589/Wynntils-1.8.0_643-MC1.12.2.jar"
+hash-format = "murmur2"
+hash = "4068049498"
+
+[update]
+[update.curseforge]
+file-id = 3132589
+project-id = 303451
+release-channel = "beta"

@@ -1,0 +1,12 @@
+name = "WynnPack"
+author = "Clara Thrace"
+version = "1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d6ffe6d339b5246914eaa32f1dbe200becbfdbec903d464e75d672af08520018"
+
+[versions]
+forge = "14.23.5.2855"
+minecraft = "1.12.2"

@@ -1,0 +1,6 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/wynntils.toml"
+hash = "89d733ef763bdcb4fd08e42dfccbf8e2a940afdcdebc1fb727f0604ec979adac"
+metafile = true
